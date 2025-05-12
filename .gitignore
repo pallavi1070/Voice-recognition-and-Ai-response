@@ -1,0 +1,4 @@
+
+__pycache__/
+*.mp3
+openai_api_key.txt  # If you store your API key in a file
