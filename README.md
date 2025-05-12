@@ -38,7 +38,7 @@ INSTALLATION
 
   - Clone the repository:
 
-        git clone https://github.com/pallavi1070/voice-recognition-ai.git
+        git clone https://github.com/your-username/voice-recognition-ai.git
         cd voice-recognition-ai
 
   - Install the required libraries:
