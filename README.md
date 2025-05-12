@@ -60,10 +60,6 @@ This is a Voice Recognition and AI Response Project developed using Python. The 
 * If there is an issue with the OpenAI API, an error message will be shown.
 * If audio playback fails, it will skip the audio response without crashing.
 
-## License
-
-This project is licensed under the MIT License. Feel free to modify and use it as needed.
-
 ## Acknowledgements
 
 * Google Speech Recognition for voice-to-text.
